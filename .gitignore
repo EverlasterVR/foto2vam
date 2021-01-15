@@ -1,1 +1,8 @@
 *.pyc
+Input/*.png
+Input/*.jpg
+Input/*.webm
+Input/*.gif
+temp
+models
+Output
