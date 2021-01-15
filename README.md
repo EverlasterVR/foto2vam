@@ -33,7 +33,7 @@ The facename can be anything.
 
 The angle0 file must be a forward facing photo with a neutral expression on their face.
 
-The angle35 file 
+The angle35 file must be a photo of the face looking left (or right from their POV). If it's facing the other way, mirror the image with an image editor first. 
 
 The files must end in .png but if they're .jpg you can just change the extension.
 
